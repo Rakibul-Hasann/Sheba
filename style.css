@@ -1,0 +1,181 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+
+
+/* Navbar Section */
+.navbar-brand{}
+.navbar-brand > img{}
+.nav-form{}
+.nav-form p {
+    padding-right: 1rem;
+}
+/* Navbar Section */
+
+
+
+
+/* Hero Section */
+.hero {
+    background-image: url(./images/hero-cover.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: auto;
+    height: 450px;
+}
+.hero-title > h1 {
+    font-size: 56px;
+    font-weight: 600;
+}
+.hero-title > h3 {
+    font-weight: 600;
+    font-size: 30px;
+}
+.loc-button{
+    padding: 0;
+}
+.loc-input > input{
+    border: none;
+}
+.loc-input > input:focus{
+    outline: none;
+}
+/* Hero Section */
+
+/* Hero Feature */
+.feature-text{
+    font-size: 15px;
+    color: rgba(0, 0, 0, 0.7);
+    font-weight: 600;
+}
+.hero-feature-container{
+    margin-top: -3.5rem;
+}
+/* Hero Feature */
+
+
+
+
+/* why-choose-us */
+.why-choose-us{
+    background: #fafbfc;
+}
+.line{
+    width: 30px;
+    height: 1px;
+    background: #979797;
+}
+/* why-choose-us */
+
+
+
+
+/* Counts */
+.counts-container{
+    background-color: #f4f5f8;
+}
+/* Counts */
+
+
+
+
+/* How it's works */
+.feature-list{
+    border-left: 3px solid #f7f8fa;
+}
+.round-div{
+    background-image: linear-gradient(135deg, #23a999 1%, #00a1ba 52%, #006597);
+    width: 50px;
+    height: 50px;
+    left: -26px;
+    top: 0;
+    
+}
+.feature-number {
+    top: 12px;
+    left: -8px;
+}
+/* How it's works */
+
+
+/* Testimonial */
+.test-container{
+    background-color: #f4f5f8;
+}
+.test-description{
+    border-left: 10px solid #00a1ba;
+}
+.test-text{
+    font-size: 20px;
+    line-height: 2.5rem;
+}
+.Why-title{
+    font-size: 14px;
+    font-weight: 600;
+    color: rgba(0, 0, 0, 0.7);
+}
+/* Testimonial */
+
+
+
+/* App Download */
+.app-btn{
+    background-color: #c71f66;
+    color: white;
+    padding: 13px 0px;
+}
+.input-field{
+    height: 50px;
+
+    font-size: 16px;
+}
+.input-field:focus{
+    outline: none;
+}
+/* App Download */
+
+
+
+/* Call Section */
+.call-container{
+    background-color: #f4f5f8;
+}
+.call-img{
+    right: 0;
+}
+.call-heading{
+    font-size: 25px;
+    font-weight: 600;
+}
+/* Call Section */
+
+
+
+/* Footer Section */
+.footer-container{
+    background-color: #ebecef;
+}
+.footer-contact-text{
+    font-size: 14px;
+}
+.fooer-list{
+    font-size: 14px;
+    padding-bottom: 5px;
+}
+.footer-download-text{
+    font-size: 14px;
+}
+.footer-company-img{
+    width: 8rem;
+}
+.develop-p{
+    background-color: #dfe0e3;
+    font-size: 15px;
+}
+/* Footer Section */
+
