@@ -18,6 +18,9 @@
     .hero-title > h1 {
         font-size: 30px;
     }
+    .hero-title > h3 {
+        font-size: 15px;
+    }
 }
 @media (max-width: 567px) {
     
