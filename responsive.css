@@ -7,9 +7,18 @@
     .call-heading{
         font-size: 15px;
     }
+    .hero-title > h3 {
+        font-size: 20px;
+    }
+    .hero-title > h1 {
+        font-size: 40px;
+    }
 }
 @media (max-width:468px) {
     .hero-title > h1 {
-        font-size: 20px;
+        font-size: 30px;
     }
+}
+@media (max-width: 567px) {
+    
 }
