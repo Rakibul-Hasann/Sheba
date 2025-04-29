@@ -14,14 +14,14 @@
         font-size: 40px;
     }
 }
-@media (max-width:468px) {
+@media (max-width:576px) {
     .hero-title > h1 {
         font-size: 30px;
     }
     .hero-title > h3 {
         font-size: 15px;
     }
-}
-@media (max-width: 567px) {
-    
+    .develop-p{
+        font-size: 12px;
+    }
 }
